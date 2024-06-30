@@ -37,7 +37,7 @@ Esta aplicação permite consultar a situação cadastral do CPF na Receita Fede
 
 1. Clone este repositório:
     ```sh
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/TiagosCompanny/Alem-ConsultaCpf.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
